@@ -1,0 +1,27 @@
+Question 1
+https://github.com/TianxiangR
+
+Question 2
+It's already installed and the version is 2.25.1
+
+Question 3
+2.31.0
+
+Question 4
+Without venv, python will use the global environment whereas with venv, python only uses the libraries from venv
+
+Question 5
+HTTP 301
+I must use https://www.google.com/ or http://www.google.com/
+
+Question 6
+HTTP 418
+Both curl -i and curl -iL returned HTTP 418
+Same status code for http://www.google.com/teapot
+
+Question 7
+The form contents changed from an empty form to 
+<DT>X: <i>&lt;type 'instance'&gt;</i>
+<DD>MiniFieldStorage('X', 'Y')
+</DL>
+
